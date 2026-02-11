@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OmariLyn07
-- 👀 I’m interested in Mobile Programming and Java Development
-- 🌱 I’m currently learning Java, Kotlin, MySQL, Flutter/Dart
+- 👀 I’m interested in Data engineering
+- 🌱 I’m currently learning Python, SQL, and Java
 - 📫 How to reach me [LinkedIn](www.linkedin.com/in/omari-lyn-a39157270)
-- ⚡ Fun fact: I am a 2024 Computer Science Graduate
+- ⚡ Fun fact: A well structured database is the powerhouse of any company
 
 
 <!---
